@@ -3,3 +3,5 @@ C:\Documents and Settings\Ghenadie\My Documents\Visual Studio 2008\Projects\Mvc.
 C:\Documents and Settings\Ghenadie\My Documents\Visual Studio 2008\Projects\Mvc.BooksOnline\Mvc.BooksOnline.Domain\obj\Debug\ResolveAssemblyReference.cache
 C:\Documents and Settings\Ghenadie\My Documents\Visual Studio 2008\Projects\Mvc.BooksOnline\Mvc.BooksOnline.Domain\obj\Debug\Mvc.BooksOnline.Domain.dll
 C:\Documents and Settings\Ghenadie\My Documents\Visual Studio 2008\Projects\Mvc.BooksOnline\Mvc.BooksOnline.Domain\obj\Debug\Mvc.BooksOnline.Domain.pdb
+C:\Documents and Settings\Ghenadie\My Documents\Visual Studio 2008\Projects\Mvc.BooksOnline\Mvc.BooksOnline.Domain\bin\Debug\Mvc.BooksOnline.DataAccess.dll
+C:\Documents and Settings\Ghenadie\My Documents\Visual Studio 2008\Projects\Mvc.BooksOnline\Mvc.BooksOnline.Domain\bin\Debug\Mvc.BooksOnline.DataAccess.pdb

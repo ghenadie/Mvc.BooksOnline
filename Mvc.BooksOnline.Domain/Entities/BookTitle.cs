@@ -82,6 +82,12 @@ namespace Mvc.BooksOnline.Domain.Entities
             }
             Title = title;
         }
+        /// <summary>
+        /// Initializes a new instance of the <see cref="BookTitle"/> class.
+        /// </summary>
+        public BookTitle()
+        { 
+        }
         #endregion
 
         #region Methods

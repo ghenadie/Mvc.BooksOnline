@@ -7,3 +7,8 @@ C:\Documents and Settings\Ghenadie\My Documents\Visual Studio 2008\Projects\Mvc.
 C:\Documents and Settings\Ghenadie\My Documents\Visual Studio 2008\Projects\Mvc.BooksOnline\Mvc.BooksOnline.Domain.Tests\obj\Debug\ResolveAssemblyReference.cache
 C:\Documents and Settings\Ghenadie\My Documents\Visual Studio 2008\Projects\Mvc.BooksOnline\Mvc.BooksOnline.Domain.Tests\obj\Debug\Mvc.BooksOnline.Domain.Tests.dll
 C:\Documents and Settings\Ghenadie\My Documents\Visual Studio 2008\Projects\Mvc.BooksOnline\Mvc.BooksOnline.Domain.Tests\obj\Debug\Mvc.BooksOnline.Domain.Tests.pdb
+C:\Documents and Settings\Ghenadie\My Documents\Visual Studio 2008\Projects\Mvc.BooksOnline\Mvc.BooksOnline.Domain.Tests\bin\Debug\Moq.dll
+C:\Documents and Settings\Ghenadie\My Documents\Visual Studio 2008\Projects\Mvc.BooksOnline\Mvc.BooksOnline.Domain.Tests\bin\Debug\Castle.Core.dll
+C:\Documents and Settings\Ghenadie\My Documents\Visual Studio 2008\Projects\Mvc.BooksOnline\Mvc.BooksOnline.Domain.Tests\bin\Debug\Castle.DynamicProxy2.dll
+C:\Documents and Settings\Ghenadie\My Documents\Visual Studio 2008\Projects\Mvc.BooksOnline\Mvc.BooksOnline.Domain.Tests\bin\Debug\Mvc.BooksOnline.DataAccess.dll
+C:\Documents and Settings\Ghenadie\My Documents\Visual Studio 2008\Projects\Mvc.BooksOnline\Mvc.BooksOnline.Domain.Tests\bin\Debug\Mvc.BooksOnline.DataAccess.pdb
