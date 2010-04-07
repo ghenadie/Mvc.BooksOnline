@@ -1,0 +1,8 @@
+C:\Documents and Settings\Ghenadie\My Documents\Visual Studio 2008\Projects\Mvc.BooksOnline\Mvc.BooksOnline.Tests\bin\Debug\Mvc.BooksOnline.Tests.dll
+C:\Documents and Settings\Ghenadie\My Documents\Visual Studio 2008\Projects\Mvc.BooksOnline\Mvc.BooksOnline.Tests\bin\Debug\Mvc.BooksOnline.Tests.pdb
+C:\Documents and Settings\Ghenadie\My Documents\Visual Studio 2008\Projects\Mvc.BooksOnline\Mvc.BooksOnline.Tests\bin\Debug\Mvc.BooksOnline.dll
+C:\Documents and Settings\Ghenadie\My Documents\Visual Studio 2008\Projects\Mvc.BooksOnline\Mvc.BooksOnline.Tests\bin\Debug\xunit.dll
+C:\Documents and Settings\Ghenadie\My Documents\Visual Studio 2008\Projects\Mvc.BooksOnline\Mvc.BooksOnline.Tests\bin\Debug\Mvc.BooksOnline.pdb
+C:\Documents and Settings\Ghenadie\My Documents\Visual Studio 2008\Projects\Mvc.BooksOnline\Mvc.BooksOnline.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ghenadie\My Documents\Visual Studio 2008\Projects\Mvc.BooksOnline\Mvc.BooksOnline.Tests\obj\Debug\Mvc.BooksOnline.Tests.dll
+C:\Documents and Settings\Ghenadie\My Documents\Visual Studio 2008\Projects\Mvc.BooksOnline\Mvc.BooksOnline.Tests\obj\Debug\Mvc.BooksOnline.Tests.pdb

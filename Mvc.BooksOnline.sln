@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mvc.BooksOnline", "Mvc.BooksOnline\Mvc.BooksOnline.csproj", "{7800DE59-82AD-41B1-A4CA-238209EA15D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mvc.BooksOnline.Tests", "Mvc.BooksOnline.Tests\Mvc.BooksOnline.Tests.csproj", "{FFEE61E0-48A3-4D59-9706-E3849B68351E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mvc.BooksOnline.Domain", "Mvc.BooksOnline.Domain\Mvc.BooksOnline.Domain.csproj", "{E4F12F83-2182-413E-94E2-34F46BB67EFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mvc.BooksOnline.Domain.Tests", "Mvc.BooksOnline.Domain.Tests\Mvc.BooksOnline.Domain.Tests.csproj", "{B14FF733-53F4-4417-B0CF-5F4B6733F6AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mvc.BooksOnline.DataAccess", "Mvc.BooksOnline.DataAccess\Mvc.BooksOnline.DataAccess.csproj", "{AFAB33B3-E8FD-4347-9E93-3DFC2093229E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mvc.BooksOnline.DataAccess.Tests", "Mvc.BooksOnline.DataAccess.Tests\Mvc.BooksOnline.DataAccess.Tests.csproj", "{FCB58C76-41BC-42C3-A7DE-EF9D234C0082}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7800DE59-82AD-41B1-A4CA-238209EA15D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7800DE59-82AD-41B1-A4CA-238209EA15D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7800DE59-82AD-41B1-A4CA-238209EA15D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7800DE59-82AD-41B1-A4CA-238209EA15D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFEE61E0-48A3-4D59-9706-E3849B68351E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFEE61E0-48A3-4D59-9706-E3849B68351E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFEE61E0-48A3-4D59-9706-E3849B68351E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFEE61E0-48A3-4D59-9706-E3849B68351E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4F12F83-2182-413E-94E2-34F46BB67EFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4F12F83-2182-413E-94E2-34F46BB67EFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4F12F83-2182-413E-94E2-34F46BB67EFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4F12F83-2182-413E-94E2-34F46BB67EFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B14FF733-53F4-4417-B0CF-5F4B6733F6AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B14FF733-53F4-4417-B0CF-5F4B6733F6AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B14FF733-53F4-4417-B0CF-5F4B6733F6AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B14FF733-53F4-4417-B0CF-5F4B6733F6AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFAB33B3-E8FD-4347-9E93-3DFC2093229E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFAB33B3-E8FD-4347-9E93-3DFC2093229E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFAB33B3-E8FD-4347-9E93-3DFC2093229E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFAB33B3-E8FD-4347-9E93-3DFC2093229E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCB58C76-41BC-42C3-A7DE-EF9D234C0082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCB58C76-41BC-42C3-A7DE-EF9D234C0082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCB58C76-41BC-42C3-A7DE-EF9D234C0082}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCB58C76-41BC-42C3-A7DE-EF9D234C0082}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

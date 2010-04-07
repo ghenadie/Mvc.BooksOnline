@@ -1,0 +1,5 @@
+C:\Documents and Settings\Ghenadie\My Documents\Visual Studio 2008\Projects\Mvc.BooksOnline\Mvc.BooksOnline.DataAccess.Tests\bin\Debug\Mvc.BooksOnline.DataAccess.Tests.dll
+C:\Documents and Settings\Ghenadie\My Documents\Visual Studio 2008\Projects\Mvc.BooksOnline\Mvc.BooksOnline.DataAccess.Tests\bin\Debug\Mvc.BooksOnline.DataAccess.Tests.pdb
+C:\Documents and Settings\Ghenadie\My Documents\Visual Studio 2008\Projects\Mvc.BooksOnline\Mvc.BooksOnline.DataAccess.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ghenadie\My Documents\Visual Studio 2008\Projects\Mvc.BooksOnline\Mvc.BooksOnline.DataAccess.Tests\obj\Debug\Mvc.BooksOnline.DataAccess.Tests.dll
+C:\Documents and Settings\Ghenadie\My Documents\Visual Studio 2008\Projects\Mvc.BooksOnline\Mvc.BooksOnline.DataAccess.Tests\obj\Debug\Mvc.BooksOnline.DataAccess.Tests.pdb

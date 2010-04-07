@@ -1,0 +1,5 @@
+C:\Documents and Settings\Ghenadie\My Documents\Visual Studio 2008\Projects\Mvc.BooksOnline\Mvc.BooksOnline\bin\Mvc.BooksOnline.dll
+C:\Documents and Settings\Ghenadie\My Documents\Visual Studio 2008\Projects\Mvc.BooksOnline\Mvc.BooksOnline\bin\Mvc.BooksOnline.pdb
+C:\Documents and Settings\Ghenadie\My Documents\Visual Studio 2008\Projects\Mvc.BooksOnline\Mvc.BooksOnline\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ghenadie\My Documents\Visual Studio 2008\Projects\Mvc.BooksOnline\Mvc.BooksOnline\obj\Debug\Mvc.BooksOnline.dll
+C:\Documents and Settings\Ghenadie\My Documents\Visual Studio 2008\Projects\Mvc.BooksOnline\Mvc.BooksOnline\obj\Debug\Mvc.BooksOnline.pdb

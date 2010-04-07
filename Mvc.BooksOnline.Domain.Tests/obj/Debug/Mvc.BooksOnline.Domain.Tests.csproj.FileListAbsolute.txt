@@ -1,0 +1,9 @@
+C:\Documents and Settings\Ghenadie\My Documents\Visual Studio 2008\Projects\Mvc.BooksOnline\Mvc.BooksOnline.Domain.Tests\bin\Debug\Mvc.BooksOnline.Domain.Tests.dll
+C:\Documents and Settings\Ghenadie\My Documents\Visual Studio 2008\Projects\Mvc.BooksOnline\Mvc.BooksOnline.Domain.Tests\bin\Debug\Mvc.BooksOnline.Domain.Tests.pdb
+C:\Documents and Settings\Ghenadie\My Documents\Visual Studio 2008\Projects\Mvc.BooksOnline\Mvc.BooksOnline.Domain.Tests\bin\Debug\Mvc.BooksOnline.Domain.dll
+C:\Documents and Settings\Ghenadie\My Documents\Visual Studio 2008\Projects\Mvc.BooksOnline\Mvc.BooksOnline.Domain.Tests\bin\Debug\xunit.dll
+C:\Documents and Settings\Ghenadie\My Documents\Visual Studio 2008\Projects\Mvc.BooksOnline\Mvc.BooksOnline.Domain.Tests\bin\Debug\xunit.extensions.dll
+C:\Documents and Settings\Ghenadie\My Documents\Visual Studio 2008\Projects\Mvc.BooksOnline\Mvc.BooksOnline.Domain.Tests\bin\Debug\Mvc.BooksOnline.Domain.pdb
+C:\Documents and Settings\Ghenadie\My Documents\Visual Studio 2008\Projects\Mvc.BooksOnline\Mvc.BooksOnline.Domain.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ghenadie\My Documents\Visual Studio 2008\Projects\Mvc.BooksOnline\Mvc.BooksOnline.Domain.Tests\obj\Debug\Mvc.BooksOnline.Domain.Tests.dll
+C:\Documents and Settings\Ghenadie\My Documents\Visual Studio 2008\Projects\Mvc.BooksOnline\Mvc.BooksOnline.Domain.Tests\obj\Debug\Mvc.BooksOnline.Domain.Tests.pdb
