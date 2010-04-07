@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DataAccessObjects\IBookTitleRepository.cs" />
     <Compile Include="Entities\Author.cs" />
     <Compile Include="Entities\BookFormat.cs" />
     <Compile Include="Entities\BookTitle.cs" />
@@ -54,7 +55,10 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="DataAccessObjects\" />
+    <ProjectReference Include="..\Mvc.BooksOnline.DataAccess\Mvc.BooksOnline.DataAccess.csproj">
+      <Project>{AFAB33B3-E8FD-4347-9E93-3DFC2093229E}</Project>
+      <Name>Mvc.BooksOnline.DataAccess</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

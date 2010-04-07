@@ -32,6 +32,10 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Moq, Version=4.0.812.4, Culture=neutral, PublicKeyToken=69f491c39445e920, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Libs\Moq.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core">
       <RequiredTargetFramework>3.5</RequiredTargetFramework>
@@ -54,6 +58,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DataAccessObjects\BookTitleRepositoryTests.cs" />
     <Compile Include="Entities\AuthorTests.cs" />
     <Compile Include="Entities\BookFormatTests.cs" />
     <Compile Include="Entities\BookTitleTests.cs" />
@@ -65,13 +70,14 @@
     <Service Include="{B4F97281-0DBD-4835-9ED8-7DFB966E87FF}" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Mvc.BooksOnline.DataAccess\Mvc.BooksOnline.DataAccess.csproj">
+      <Project>{AFAB33B3-E8FD-4347-9E93-3DFC2093229E}</Project>
+      <Name>Mvc.BooksOnline.DataAccess</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Mvc.BooksOnline.Domain\Mvc.BooksOnline.Domain.csproj">
       <Project>{E4F12F83-2182-413E-94E2-34F46BB67EFA}</Project>
       <Name>Mvc.BooksOnline.Domain</Name>
     </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="DataAccessObjects\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
