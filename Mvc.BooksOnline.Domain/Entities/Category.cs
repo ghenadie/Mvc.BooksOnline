@@ -25,7 +25,7 @@ namespace Mvc.BooksOnline.Domain.Entities
         /// Gets or sets the books corresponding to the category.
         /// </summary>
         /// <value>The books.</value>
-        public virtual List<BookTitle> Books { get; set; }
+        public virtual List<BookTitle> Books { get; private set; }
         #endregion
 
         #region .ctors
@@ -39,7 +39,7 @@ namespace Mvc.BooksOnline.Domain.Entities
             {
                 throw new ArgumentNullException("description", "You must provide category description.");
             }
-            Description = description;
+            Description = description;            
         }
         #endregion
 

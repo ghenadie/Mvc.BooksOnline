@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DataAccessObjects\BookTitleRepository.cs" />
     <Compile Include="DataAccessObjects\IBookTitleRepository.cs" />
     <Compile Include="Entities\Author.cs" />
     <Compile Include="Entities\BookFormat.cs" />

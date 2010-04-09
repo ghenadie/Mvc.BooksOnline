@@ -61,12 +61,12 @@ namespace Mvc.BooksOnline.Domain.Entities
         /// Gets or sets the authors of the book.
         /// </summary>
         /// <value>The authors of the book.</value>
-        public virtual List<Author> Authors { get; set; }
+        public virtual List<Author> Authors { get; private set; }
         /// <summary>
         /// Gets or sets the categories of the book.
         /// </summary>
         /// <value>The categories of the book.</value>
-        public virtual List<Category> Categories { get; set; }
+        public virtual List<Category> Categories { get; private set; }
         #endregion
 
         #region .ctors
@@ -80,13 +80,13 @@ namespace Mvc.BooksOnline.Domain.Entities
             {
                 throw new ArgumentNullException("title", "You must provide the book title.");
             }
-            Title = title;
+            Title = title;            
         }
         /// <summary>
         /// Initializes a new instance of the <see cref="BookTitle"/> class.
         /// </summary>
         public BookTitle()
-        { 
+        {
         }
         #endregion
 

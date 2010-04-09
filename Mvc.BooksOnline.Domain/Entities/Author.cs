@@ -31,7 +31,7 @@ namespace Mvc.BooksOnline.Domain.Entities
         /// Gets or sets the Author's books collection.
         /// </summary>
         /// <value>The books collection.</value>
-        public virtual List<BookTitle> Books { get; set; }
+        public virtual List<BookTitle> Books { get; private set; }
         #endregion
 
         #region .ctors
@@ -48,7 +48,7 @@ namespace Mvc.BooksOnline.Domain.Entities
         /// <summary>
         /// Initializes a new instance of the <see cref="Author"/> class.
         /// </summary>
-        public Author() { }
+        public Author() : this(string.Empty, string.Empty) { }
         #endregion
 
         #region Methods

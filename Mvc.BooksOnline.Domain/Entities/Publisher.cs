@@ -25,7 +25,7 @@ namespace Mvc.BooksOnline.Domain.Entities
         /// Gets or sets published books collection.
         /// </summary>
         /// <value>The books.</value>
-        public virtual List<BookTitle> Books { get; set; }
+        public virtual List<BookTitle> Books { get; private set; }
         #endregion
 
         #region .ctors

@@ -40,6 +40,7 @@ namespace Mvc.BooksOnline.Domain.Entities
                 throw new ArgumentNullException("description", "You must provide book format description.");
             }
             Description = description;
+            Books = new List<BookTitle>();
         }
         #endregion
 
@@ -50,10 +51,6 @@ namespace Mvc.BooksOnline.Domain.Entities
         /// <param name="book">The book.</param>
         public virtual void AddBookTitle(BookTitle book)
         {
-            if (Books == null)
-            {
-                Books = new List<BookTitle>();
-            }
             book.BookFormat = this;
             Books.Add(book);
         }
